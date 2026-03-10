@@ -1,3 +1,5 @@
+# Amalia Mirasafitri (F1D02310002) C
+
 import sys
 from PySide6.QtWidgets import (
     QApplication, QWidget, QLabel, QLineEdit,
